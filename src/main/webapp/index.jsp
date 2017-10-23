@@ -1,23 +1,15 @@
 <!DOCTYPE html>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="me.viatsko.nashorn_ssr_preact_demo.HelloAppEngine" %>
 <html>
 <head>
-  <link href='//fonts.googleapis.com/css?family=Marmelad' rel='stylesheet' type='text/css'>
-  <title>Hello App Engine Standard Java 8</title>
+  <title>Nashor Preact SSR Demo</title>
 </head>
 <body>
-    <h1>Hello App Engine -- Java 8!</h1>
+  <h1>Hello App Engine -- Java 8!</h1>
 
-  <p>This is <%= HelloAppEngine.getInfo() %>.</p>
-  <table>
-    <tr>
-      <td colspan="2" style="font-weight:bold;">Available Servlets:</td>
-    </tr>
-    <tr>
-      <td><a href='/hello'>Hello App Engine</a></td>
-    </tr>
-  </table>
+  <p>This is a Preact SSR Demo app!</p>
+
+  <p><a href="/ssr">Visit servlet</a></p>
 
 </body>
 </html>
