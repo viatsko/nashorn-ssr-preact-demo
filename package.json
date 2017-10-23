@@ -5,5 +5,15 @@
   "repository": "git@github.com:viatsko/nashorn-ssr-preact-demo.git",
   "author": "Valerii Iatsko <viatsko@viatsko.me>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "nashorn-polyfill": "^0.2.4",
+    "preact": "^8.2.5",
+    "preact-render-to-string": "^3.7.0",
+    "webpack": "^3.8.1"
+  }
 }
