@@ -5,8 +5,8 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
-  <groupId>me.viatsko.nashorn-ssr-preact-demo</groupId>
-  <artifactId>nashorn-ssr-preact-demo</artifactId>
+  <groupId>me.viatsko.nashorn_ssr_preact_demo</groupId>
+  <artifactId>nashorn_ssr_preact_demo</artifactId>
 
   <properties>
     <!-- uncomment if you wish to set your project here project- gcloud is used otherwise -->

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="me.viatsko.nashorn-ssr-preact-demo.HelloAppEngine" %>
+<%@ page import="me.viatsko.nashorn_ssr_preact_demo.HelloAppEngine" %>
 <html>
 <head>
   <link href='//fonts.googleapis.com/css?family=Marmelad' rel='stylesheet' type='text/css'>

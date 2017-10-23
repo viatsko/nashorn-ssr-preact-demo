@@ -1,4 +1,4 @@
-package me.viatsko.nashorn-ssr-preact-demo;
+package me.viatsko.nashorn_ssr_preact_demo;
 
 import com.google.appengine.api.utils.SystemProperty;
 
