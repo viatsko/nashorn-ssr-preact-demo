@@ -1,7 +1,5 @@
-appengine-standard-archetype
-============================
-
-This is a generated App Engine Standard Java application from the appengine-standard-archetype archetype.
+Nashorn Preact SSR Render Demo
+==============================
 
 See the [Google App Engine standard environment documentation][ae-docs] for more
 detailed instructions.
