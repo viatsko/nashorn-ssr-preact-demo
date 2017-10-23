@@ -1,3 +1,4 @@
 target/
+src/main/webapp/bundles/
 node_modules/
 .idea/workspace.xml
