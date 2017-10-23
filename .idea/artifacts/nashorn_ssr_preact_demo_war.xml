@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="nashorn-ssr-preact-demo:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="nashorn-ssr-preact-demo-1.0-SNAPSHOT.war">
+    <root id="archive" name="nashorn_ssr_preact_demo-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="nashorn-ssr-preact-demo:war exploded" />
     </root>
   </artifact>
